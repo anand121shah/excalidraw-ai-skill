@@ -1,0 +1,279 @@
+{
+  "brand": "Fieldnotes",
+  "license": "MIT",
+  "targetPacks": 300,
+  "exportedPacks": 3,
+  "exportedIcons": 54,
+  "packs": [
+    {
+      "id": "A052",
+      "icons": 18,
+      "nativeElements": 177,
+      "sceneElements": 325,
+      "errors": [],
+      "title": "Patient appointment journey",
+      "scope": "Patient-facing appointment services; excludes emergency triage, diagnosis, and treatment instructions.",
+      "version": "1.0.0",
+      "status": "exported-awaiting-excalidraw-review",
+      "concepts": [
+        {
+          "name": "Find a clinician",
+          "meaning": "Compare suitable care providers."
+        },
+        {
+          "name": "Book an appointment",
+          "meaning": "Request a visit using a booking interface."
+        },
+        {
+          "name": "Choose a time",
+          "meaning": "Select an available appointment slot."
+        },
+        {
+          "name": "Appointment confirmed",
+          "meaning": "A requested visit is now scheduled."
+        },
+        {
+          "name": "Visit reminder",
+          "meaning": "An upcoming visit needs attention."
+        },
+        {
+          "name": "Pre-visit questionnaire",
+          "meaning": "Complete questions before the visit."
+        },
+        {
+          "name": "Bring records",
+          "meaning": "Prepare existing medical documents."
+        },
+        {
+          "name": "Access accommodation",
+          "meaning": "Arrange step-free access or mobility support."
+        },
+        {
+          "name": "Arrival and check-in",
+          "meaning": "Register arrival at the reception desk."
+        },
+        {
+          "name": "Waiting room",
+          "meaning": "Wait until the care team is ready."
+        },
+        {
+          "name": "Vitals check",
+          "meaning": "Measure basic observations before consultation."
+        },
+        {
+          "name": "Clinical consultation",
+          "meaning": "Discuss concerns with a care professional."
+        },
+        {
+          "name": "Diagnostic referral",
+          "meaning": "Move from a visit to an ordered diagnostic service."
+        },
+        {
+          "name": "Prescription",
+          "meaning": "Receive a medication plan from the clinician."
+        },
+        {
+          "name": "Follow-up plan",
+          "meaning": "Schedule a next visit after the current one."
+        },
+        {
+          "name": "Reschedule a visit",
+          "meaning": "Move an existing booking to a different slot."
+        },
+        {
+          "name": "Cancel a visit",
+          "meaning": "Remove a scheduled visit without replacing it."
+        },
+        {
+          "name": "Telehealth visit",
+          "meaning": "Consult remotely through a video connection."
+        }
+      ],
+      "files": [
+        "A052-patient-appointment-journey-v1.0.excalidraw",
+        "A052-patient-appointment-journey-v1.0.excalidrawlib",
+        "A052-patient-appointment-journey-v1.0-preview.svg"
+      ]
+    },
+    {
+      "id": "B004",
+      "icons": 18,
+      "nativeElements": 187,
+      "sceneElements": 327,
+      "errors": [],
+      "title": "Human approval in AI workflows",
+      "scope": "Approval and oversight of AI-proposed actions; excludes vendor logos and claims that approval alone guarantees safety.",
+      "version": "1.0.0",
+      "status": "exported-awaiting-excalidraw-review",
+      "concepts": [
+        {
+          "name": "AI-proposed action",
+          "meaning": "A model produces a proposed action, not an executed one."
+        },
+        {
+          "name": "Pending review queue",
+          "meaning": "Proposals wait in an ordered review backlog."
+        },
+        {
+          "name": "Assigned reviewer",
+          "meaning": "A specific human owns the review decision."
+        },
+        {
+          "name": "Review supporting evidence",
+          "meaning": "Inspect sources before deciding."
+        },
+        {
+          "name": "Request human approval",
+          "meaning": "Route a proposed action to a person."
+        },
+        {
+          "name": "Approve execution",
+          "meaning": "A deliberate human decision opens the execution path."
+        },
+        {
+          "name": "Reject proposal",
+          "meaning": "A review decision stops the proposed action."
+        },
+        {
+          "name": "Request changes",
+          "meaning": "Return a proposal for revision and another review."
+        },
+        {
+          "name": "Delegate review",
+          "meaning": "Transfer review ownership to another human."
+        },
+        {
+          "name": "Multiple approvals",
+          "meaning": "A proposal requires agreement from more than one reviewer."
+        },
+        {
+          "name": "Permission boundary",
+          "meaning": "An action must remain inside an explicitly permitted scope."
+        },
+        {
+          "name": "Sensitive action",
+          "meaning": "High-impact operations need heightened authorization."
+        },
+        {
+          "name": "Review timeout",
+          "meaning": "An unanswered approval expires rather than silently succeeding."
+        },
+        {
+          "name": "Escalate review",
+          "meaning": "Route a blocked decision to a higher-authority reviewer."
+        },
+        {
+          "name": "Gated execution",
+          "meaning": "Only an approved action crosses the execution boundary."
+        },
+        {
+          "name": "Decision audit receipt",
+          "meaning": "Record the actor, decision, and action in a durable trace."
+        },
+        {
+          "name": "Revoke approval",
+          "meaning": "Withdraw permission before a pending action executes."
+        },
+        {
+          "name": "Human override",
+          "meaning": "A person interrupts automated execution through an explicit control."
+        }
+      ],
+      "files": [
+        "B004-human-approval-in-ai-workflows-v1.0.excalidraw",
+        "B004-human-approval-in-ai-workflows-v1.0.excalidrawlib",
+        "B004-human-approval-in-ai-workflows-v1.0-preview.svg"
+      ]
+    },
+    {
+      "id": "C015",
+      "icons": 18,
+      "nativeElements": 267,
+      "sceneElements": 461,
+      "errors": [],
+      "title": "Disagreement and debate",
+      "scope": "Constructive interpersonal disagreement; no conflict diagnosis, stereotypes, or claims of universally correct emotional responses.",
+      "version": "1.0.0",
+      "status": "exported-awaiting-excalidraw-review",
+      "concepts": [
+        {
+          "name": "Different viewpoints",
+          "meaning": "Two people see the same situation differently."
+        },
+        {
+          "name": "State a position",
+          "meaning": "One speaker presents a clear point of view."
+        },
+        {
+          "name": "Listen before responding",
+          "meaning": "Attend to another person without preparing a rebuttal."
+        },
+        {
+          "name": "Interrupting",
+          "meaning": "Overlapping speech blocks an unfinished contribution."
+        },
+        {
+          "name": "Ask for clarification",
+          "meaning": "A question opens space for understanding."
+        },
+        {
+          "name": "Bring evidence",
+          "meaning": "Offer information that can be examined together."
+        },
+        {
+          "name": "Challenge an assumption",
+          "meaning": "Inspect the premise beneath a confident claim."
+        },
+        {
+          "name": "Respectful disagreement",
+          "meaning": "Express a different view without attacking the person."
+        },
+        {
+          "name": "Conversation heats up",
+          "meaning": "Rising intensity makes the exchange harder to navigate."
+        },
+        {
+          "name": "Pause the discussion",
+          "meaning": "Take a deliberate break instead of escalating."
+        },
+        {
+          "name": "Set a boundary",
+          "meaning": "State a limit while remaining engaged."
+        },
+        {
+          "name": "Reframe the question",
+          "meaning": "Change the frame to reveal another useful interpretation."
+        },
+        {
+          "name": "Find common ground",
+          "meaning": "Identify a meaningful area of agreement."
+        },
+        {
+          "name": "Explore trade-offs",
+          "meaning": "Recognize that each option has benefits and costs."
+        },
+        {
+          "name": "Negotiate a compromise",
+          "meaning": "Both sides adjust to reach a workable middle."
+        },
+        {
+          "name": "Invite a mediator",
+          "meaning": "A third person helps structure a difficult exchange."
+        },
+        {
+          "name": "Agree to disagree",
+          "meaning": "Respectfully retain different conclusions."
+        },
+        {
+          "name": "Commit to a next step",
+          "meaning": "End with a concrete action rather than an unresolved loop."
+        }
+      ],
+      "files": [
+        "C015-disagreement-and-debate-v1.0.excalidraw",
+        "C015-disagreement-and-debate-v1.0.excalidrawlib",
+        "C015-disagreement-and-debate-v1.0-preview.svg"
+      ]
+    }
+  ]
+}
